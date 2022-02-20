@@ -7,4 +7,11 @@ export default {
     primary: "#E51C44",
     secondary: "#495BCC",
   },
+
+  fonts: {
+    regular: "Rajdhani_400Regular",
+    medium: "Rajdhani_500Medium",
+    bold: "Rajdhani_700Bold",
+    light: "Rajdhani_300Light",
+  },
 };
